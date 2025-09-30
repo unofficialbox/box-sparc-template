@@ -21,8 +21,8 @@ Before proceeding, ensure you have the following information:
 - **Project_Name**: *[Insert project name]*
 - **Project_Goal**: *[Brief description of the project's main goal or purpose]*
 - **Target_Audience**: *[Description of intended users or audience]*
-- **Research_Tools**: *[Insert a list of foundational LLMs or MPC tools to use]*
-- **Coding_Tools**: *[Insert a list of foundational LLMs or MPC tools to use]*
+- **Research_Tools**: *[Insert a list of foundational LLMs or MCP tools to use]*
+- **Coding_Tools**: *[Insert a list of foundational LLMs or MCP tools to use]*
 - **Functional_Requirements**: *[List of functional requirements and features]*
 - **NonFunctional_Requirements**: *[List of non-functional requirements such as performance, security, scalability]*
 - **User_Scenarios**: *[Typical user scenarios or use cases]*
